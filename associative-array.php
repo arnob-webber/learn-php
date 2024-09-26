@@ -6,6 +6,7 @@
 $webberMan = [
 
    'name' => 'arnob',
+//    keys and value here name is key sting and arnob is value string
    'age' => 22
    
 
